@@ -1,1 +1,5 @@
+/cache/
+/output/
 *.pyc
+.idea/
+*.pid
